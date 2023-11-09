@@ -57,6 +57,6 @@
 
 <div align="center">
   <h3>More Info</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdoreJc&show_icons=true&hide_title=true&count_private=true" alt="img" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdoreJc&langs_count=14&count_private=true&layout=compact&include_all_commits=true&card_width=450&count_private=true" alt="img" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdoreJc&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="img" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdoreJc&langs_count=14&count_private=true&layout=compact&include_all_commits=true&card_width=450&count_private=true&theme=dracula" alt="img" />
 </div>
