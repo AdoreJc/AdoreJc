@@ -50,6 +50,7 @@
 <div align="center">
   <h3>联系 / Contact</h3>
   <a href="https://steamcommunity.com/id/guaoxiaohei/"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat" alt="Badge" /></a>
+  <a href="https://space.bilibili.com/283457248"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat" alt="Badge" /></a>
   <a href="https://www.youtube.com/c/"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat" alt="Badge" /></a>
   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat" alt="Badge" /></a>
 </div>
