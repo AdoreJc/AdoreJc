@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/CLion-000?logo=clion&logoColor=black&style=for-the-badge&labelColor=5fc3b6" alt="img"></img>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="img"></img>
 
+  <h3>框架 / Frameworks</h3>
+  <p>.Net</p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="img"></img>
+  
   <h3>系统 / OS</h3>
   <p>Windows / MacOS / Kali Linux / Android / CentOS</p>
   <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge" alt="img"></img>
@@ -31,10 +35,6 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="img"></img>
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="img"></img>
   <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=for-the-badge" alt="img"></img>
-  
-  <h3>框架 / Frameworks</h3>
-  <p>.Net</p>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="img"></img>
   
   <h3>设计 / Design</h3>
   <p>Photoshop / InDesign/ Illustrator / After Effects / Premiere Pro / Blender / Autodesk CAD</p>
