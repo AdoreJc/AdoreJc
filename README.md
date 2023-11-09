@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="img"></img>
 
   <h3>编辑器 / Editor</h3>
-  <p>WebStorm / Visual Studio Code / GoLand / PyCharm / Rider</p>
+  <p>Unity / Visual Studio Code / GoLand / PyCharm / Rider</p>
+  <img src="https://camo.githubusercontent.com/0c5e886d62c0116fad58b9990074a9c8c58e760b524e584796ce9bf9f82137d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d556e69747926636f6c6f723d303030303030266c6f676f3d556e697479266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="img"></img>
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="img"></img>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="img"></img>
@@ -28,13 +29,14 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="img"></img>
   
   <h3>设计 / Design</h3>
-  <p>Photoshop / InDesign/ Illustrator / After Effects / Premiere Pro / Blender</p>
+  <p>Photoshop / InDesign/ Illustrator / After Effects / Premiere Pro / Blender / CAD</p>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="img"></img>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="img"></img>
+  <img src="https://camo.githubusercontent.com/bf3e0a692da2d2fd061b40b030bafe00db07a1d9b71c65686cb799170a1fe656/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4175746f6465736b26636f6c6f723d303030303030266c6f676f3d4175746f6465736b266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="img"></img>
 </div>
 
 <div align="center">
