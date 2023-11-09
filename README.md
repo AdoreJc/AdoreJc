@@ -57,6 +57,6 @@
 
 <div align="center">
   <h3>More Info</h3>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdoreJc&langs_count=14&count_private=true&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide=contribs" alt="img" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=AdoreJc&show_icons=true&hide_title=true&theme=dracula" alt="img" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdoreJc&langs_count=14&count_private=true&layout=compact&include_all_commits=true&count_private=true&theme=dracula" alt="img" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=AdoreJc&show_icons=true&hide_title=true&theme=dracula&hide=contribs" alt="img" /></p>
 </div>
