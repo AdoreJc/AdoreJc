@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm AdoreJc</h1>
+<h1>Hi, I'm AdoreJc</h1>
 
-<h3 align="center">学生 / 开发者 / 内容创作者 / 平面设计师</h3>
-<h3 align="center">Student / Developer / Content Creator / Graphic Designer</h3>
+<h3>学生 / 开发者 / 内容创作者 / 平面设计师</h3>
+<h3>Student / Developer / Content Creator / Graphic Designer</h3>
 
 <div> 
   <h3>语言 / Language</h3>
