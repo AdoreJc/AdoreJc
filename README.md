@@ -3,7 +3,7 @@
 <h3 align="center">学生 / 开发者 / 内容创作者 / 平面设计师</h3>
 <h3 align="center">Student / Developer / Content Creator / Graphic Designer</h3>
 
-<div align="center"> 
+<div> 
   <h3>语言 / Language</h3>
   <p>HTML / CSS / Javascript / C# / C / C++ / Python / PHP</p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="img"></img>
@@ -52,7 +52,7 @@
   
 </div>
 
-<div align="center">
+<div>
   <h3>联系 / Contact</h3>
   <a href="https://steamcommunity.com/id/guaoxiaohei/"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat" alt="Badge" /></a>
   <a href="https://space.bilibili.com/283457248"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat" alt="Badge" /></a>
@@ -60,7 +60,7 @@
   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat" alt="Badge" /></a>
 </div>
 
-<div align="center">
+<div>
   <h3>More Info</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdoreJc&langs_count=14&count_private=true&layout=compact&include_all_commits=true&count_private=true&theme=dark&title_color=F8F8F3" alt="img" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=AdoreJc&show_icons=true&hide_title=false&hide=contribs&theme=dark&title_color=F8F8F3" alt="img" /></p>
