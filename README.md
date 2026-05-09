@@ -118,7 +118,7 @@
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=AdoreJc&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=AdoreJc&theme=chalk&no-frame=true&row=1&column=5" alt="GitHub Trophies">
     </a>
   </p>
 
