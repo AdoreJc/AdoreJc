@@ -111,11 +111,15 @@
   <h3>More Info</h3>
 
   <p>
-    <img src="https://streak-stats.demolab.com?user=AdoreJc&theme=dark&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://streak-stats.demolab.com?user=AdoreJc&theme=dark&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+    </a>
   </p>
-
+  
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=AdoreJc&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://github-profile-trophy.vercel.app/?username=AdoreJc&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+    </a>
   </p>
 
 </div>
