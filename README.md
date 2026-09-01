@@ -9,14 +9,14 @@
 ### 📬 Contact
 
 <a href="mailto:admin@guaoxiaohei.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://steamcommunity.com/id/guaoxiaohei/"><img src="https://img.shields.io/badge/Steam-000?style=flat&logo=steam&logoColor=fff" alt="Steam" /></a>
-<a href="https://space.bilibili.com/283457248"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=fff" alt="Bilibili" /></a>
+<a href="https://steamcommunity.com/id/guaoxiaohei/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?style=flat&logo=steam&logoColor=fff" alt="Steam" /></a>
+<a href="https://space.bilibili.com/283457248" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=fff" alt="Bilibili" /></a>
 
 </td><td width="50%" valign="top">
 
 ### 📊 GitHub Statistics
 
-<a href="https://github.com/AdoreJc">
+<a href="https://github.com/AdoreJc" target="_blank">
   <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AdoreJc&show_icons=true&theme=default&hide_border=true" alt="AdoreJc's GitHub stats" />
 </a>
 
@@ -63,7 +63,7 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff" alt="Visual Studio" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
   <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=black" alt="Rider" /></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" /></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/studio" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" /></a>
   <a href="https://www.autodesk.com/products/maya/" target="_blank"><img src="https://img.shields.io/badge/Maya-000?style=for-the-badge&logo=autodesk&logoColor=fff" alt="Maya" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" /></a>
@@ -73,8 +73,8 @@
 
 <div align="right">
   <sub>
-    <a href="https://github.com/AdoreJc"><img src="https://img.shields.io/github/followers/AdoreJc?label=Followers&style=flat-square&logo=github&color=9b7ede" alt="GitHub followers" /></a>
-    <a href="https://github.com/AdoreJc?tab=repositories"><img src="https://img.shields.io/github/stars/AdoreJc?label=Stars&style=flat-square&logo=github&color=f6c85f" alt="GitHub stars" /></a>
+    <a href="https://github.com/AdoreJc" target="_blank"><img src="https://img.shields.io/github/followers/AdoreJc?label=Followers&style=flat-square&logo=github&color=9b7ede" alt="GitHub followers" /></a>
+    <a href="https://github.com/AdoreJc?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/AdoreJc?label=Stars&style=flat-square&logo=github&color=f6c85f" alt="GitHub stars" /></a>
     <img src="https://komarev.com/ghpvc/?username=AdoreJc&style=flat-square&color=blueviolet" alt="Profile views" />
   </sub>
 </div>
